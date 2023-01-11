@@ -17,3 +17,10 @@ On Windows, you can still fetch the key by running the following from an elevate
 ```powershell
 > python3 fetcher.py
 ```
+
+# Tested On:
+- Lenovo Legion (Arch)
+- HP Pavilion (Dell)
+- DELL (Fedora)
+
+Help to expand this list?
